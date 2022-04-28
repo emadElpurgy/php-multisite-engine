@@ -1,0 +1,7 @@
+node_modules
+yarn.lock
+error.log
+config.php
+google-api/
+admin/ckeditor/
+.DS_Store
